@@ -9,3 +9,14 @@
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.reddit.com
 0.0.0.0 ads.youtube.com
+
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 
+
+ 0.0.0.0   watson.telemetry.microsoft.com
+0.0.0.0    settings-win.data.microsoft.com
+0.0.0.0    telemetry.microsoft.com
+0.0.0.0    telemetry.microsoft.com.nsatc.net
+ 0.0.0.0   telemetry.urs.microsoft.com
+
+0.0.0.0
